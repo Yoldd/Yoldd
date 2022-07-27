@@ -7,3 +7,6 @@ This repository is built step by step in the tutorial.
 # hello-world first change
  in this chapter we changed the background 
  
+ # hello-world second change 
+ 
+ this is what we have  learnt
